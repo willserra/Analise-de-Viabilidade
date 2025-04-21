@@ -382,6 +382,6 @@ plt.savefig('grafico.png')
 Caso encontre dificuldades ou tenha dúvidas durante a execução do notebook, consulte a documentação oficial das bibliotecas utilizadas ou entre em contato com o autor do projeto:
 
 Autor : William S. Serra
-Repositório : Link para o repositório no GitHub
+Repositório :(https://github.com/willserra/Analise-de-Viabilidade)
 
 ✨ Agora você está preparado para executar o notebook e explorar as análises realizadas no projeto. Boa sorte! ✨
