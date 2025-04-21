@@ -1,3 +1,5 @@
+# 🎯 **Desafio Alura Store – Análise de Viabilidade em Python com Pandas e Matplotlib**
+
 🎯 Propósito da Análise
 Este notebook tem como objetivo simular a rotina de um Cientista de Dados, por meio da resolução do desafio Alura Store , escrito em Python utilizando Pandas e os gráficos com Matplotlib .
 
